@@ -7,4 +7,7 @@ Creating a new branch version dev
 Hello
 world
 
+I'm developing the new function!
+Now I hava finished!
+
 
